@@ -6,7 +6,9 @@
 ### CSS
 ### jQuery
 
-### Using jQuery navigation bar allows for smooth scrolling to different sections of the page when clicked.
+## Using jQuery:
+### Navigation bar allows for smooth scrolling to different sections of the page when clicked.
+### Implemented a popup message functionality.
 ### Additionally, there is a sliding arrow button that appears at the bottom of the page, enabling users to quickly scroll back to the top. 
 ### Also utilized to display an alert message when a button is clicked.
 
